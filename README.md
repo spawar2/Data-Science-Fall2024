@@ -3,6 +3,8 @@ Data Science (Data wrangling, visualization, Machine Learning QDA, LDA, ROC, De
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
 Data Science Fall 2024-1: https://youtu.be/Z_mCwlMrf3M
 Data Science Fall 2024-2: https://youtu.be/jvmc2LZdgcY
+Data Science Fall 2024-3: https://youtu.be/uuuQBQTZVDg
+Data Science Fall 2024-4: https://youtu.be/jvmc2LZdgcY
 Data Science:
 
 [Machine Learning:](https://youtu.be/Pju8ecWWRAw)
