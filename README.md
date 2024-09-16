@@ -7,6 +7,7 @@ Data Science Fall 2024-3: https://youtu.be/uuuQBQTZVDg
 Data Science Fall 2024-4: https://youtu.be/jvmc2LZdgcY
 Data Science Fall 2024-5: https://youtu.be/2_qZ0ugFzMk
 Data Science Fall 2024-6: https://youtu.be/jddjOKQvAks
+Data-Science-Fall-2024-7: https://youtu.be/VN29mbro5JE
 [Machine Learning:](https://youtu.be/Pju8ecWWRAw)
 
 [Tree Based Models:](https://youtu.be/FOtl6qM_nX0)
