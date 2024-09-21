@@ -10,7 +10,7 @@ Data Science Fall 2024-6: https://youtu.be/jddjOKQvAks
 Data-Science-Fall-2024-7: https://youtu.be/VN29mbro5JE
 Data-Science-Fall-2024-7: https://youtu.be/BYtsv6uFyR0
 [Machine Learning:](https://youtu.be/Pju8ecWWRAw)
-[R: ggpubr, tidyverse, datarium, dplyr]
+[R: ggpubr, tidyverse, datarium, dplyr].
 [Tree Based Models:](https://youtu.be/FOtl6qM_nX0)
 https://github.com/spawar2/BTEC-620-Spring-2023/blob/main/Phylogenetic-Analysis.R
 
