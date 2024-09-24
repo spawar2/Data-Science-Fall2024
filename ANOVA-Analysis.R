@@ -10,7 +10,10 @@
 
 library(dplyr)
 
+PATH <- "https://raw.githubusercontent.com/guru99-edu/R-Programming/master/poisons.csv"
 
+# Reading the CSV file in R
+df <- read.csv(PATH)
 
 
 
