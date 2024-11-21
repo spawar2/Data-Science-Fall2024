@@ -18,6 +18,7 @@ Data-Science-Fall-2024-14: https://youtu.be/5hnGHM2_ITQ
 Data-Science-Fall-2024-15: https://youtu.be/a4bi9MoF9Gs
 Data Science Fall 2024 16: https://youtu.be/m216PjOQC1Q
 Data Science Fall 2024 17: https://youtu.be/Dwi1-pOlLS4
+Data Science Fall 2024 18: https://youtu.be/zA7glUptgk0
 [Machine Learning:](https://youtu.be/Pju8ecWWRAw)
 [R: ggpubr, tidyverse, datarium, dplyr].
 [Tree Based Models:](https://youtu.be/FOtl6qM_nX0)
