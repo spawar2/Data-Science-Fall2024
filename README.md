@@ -23,6 +23,7 @@ Data Science Fall 2024 18: https://youtu.be/zA7glUptgk0
 [R: ggpubr, tidyverse, datarium, dplyr].
 [Tree Based Models:](https://youtu.be/FOtl6qM_nX0)
 https://github.com/spawar2/BTEC-620-Spring-2023/blob/main/Phylogenetic-Analysis.R
+![download](https://github.com/user-attachments/assets/c8fa3f3a-0509-4221-a5a7-3cba000cbbd0)
 
 [Regression:](https://youtu.be/LrSDfwwnbKY)
 https://github.com/spawar2/STAT302/blob/main/Mar-9.Rd
